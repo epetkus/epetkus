@@ -29,8 +29,8 @@
 
 ## 📖 Currently Reading
 
-**_Sustainable Web Development with Ruby on Rails: Practical Tips for Building Web Applications that Last_**  
-by David Bryant Copeland
+**_What Got You Here Won’t Get You There_**  
+by Marshall Goldsmith
 
 ---
 
