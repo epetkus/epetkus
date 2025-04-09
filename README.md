@@ -29,8 +29,8 @@
 
 ## 📖 Currently Reading
 
-**_What Got You Here Won’t Get You There_**  
-by Marshall Goldsmith
+**_A Philosophy Of Software Design_**  
+by John Ousterhout
 
 ---
 
