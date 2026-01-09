@@ -29,8 +29,8 @@
 
 ## 📖 Currently Reading
 
-**_A Philosophy Of Software Design_**  
-by John Ousterhout
+**_Kamal Handbook, the missing manual_**  
+by Josef Strzibny
 
 ---
 
