@@ -29,8 +29,7 @@
 
 ## 📖 Currently Reading
 
-**_Kamal Handbook, the missing manual_**  
-by Josef Strzibny
+**_Kamal Handbook, the missing manual_** by Josef Strzibny
 
 ---
 
