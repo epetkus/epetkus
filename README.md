@@ -1,13 +1,13 @@
 # Hey, I'm Eli! 🚀
 
-### Building cool things with Ruby on Rails, Python and JavaScript
+### Building useful things with Ruby on Rails, Python, JavaScript and AI
 
 ---
 
 ## 👨‍💻 What I Code With
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -19,17 +19,38 @@
 
 ---
 
-## 🌱 Currently Learning
+## 🤖 Currently Learning
 
-<img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/-AI%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LLM%20Agents-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MCP-5A45FF?style=for-the-badge&logoColor=white" />
+</p>
 
-<img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> ...because my front-end skills are like a broken shopping cart - mostly works but one wheel is out of whack 🛒🎨
+Building AI features that go beyond dropping a chat box into an app.
+
+Currently digging into **LLM agents, tool calling, structured outputs, RAG, evals, context engineering and Model Context Protocol**, with a particular interest in connecting AI systems to real applications and workflows.
+
+Also exploring how AI changes the way software gets built: using coding agents effectively, designing systems that are easy for both humans and agents to work with, and figuring out where deterministic software should end and probabilistic systems should begin.
 
 ---
 
 ## 📖 Currently Reading
 
-**_Kamal Handbook, the missing manual_** by Josef Strzibny
+***AI Engineering: Building Applications with Foundation Models*** by Chip Huyen
+
+Learning more about the engineering behind production AI systems, including model selection, context construction, evaluation, latency, cost, reliability and the slightly inconvenient problem of getting nondeterministic systems to behave deterministically enough.
+
+---
+
+## 🔨 What I'm Interested In
+
+* Ruby on Rails and backend architecture
+* AI-native product development
+* LLM agents and tool-driven workflows
+* Developer tooling and automation
+* APIs and distributed systems
+* Turning unnecessarily manual processes into code
 
 ---
 
